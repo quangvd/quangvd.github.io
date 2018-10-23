@@ -1,0 +1,7 @@
+{
+    "status": {
+        "success": false,
+        "message": "Email này không tồn tại",
+        "messageCode": "ERR001"
+    }
+}
