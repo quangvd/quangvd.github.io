@@ -1,0 +1,37 @@
+{
+  "status": {
+    "success": true,
+    "message": null,
+    "messageCode": null
+  },
+  "data": [
+    {
+      "notificationId": 1,
+      "notificationName": "Khai giảng lớp mới",
+      "content": "Khai giảng lớp mới",
+      "notificationType": 1,
+      "status": null,
+      "notificationDate": null,
+      "remark": null,
+      "deleteFlg": 0,
+      "createdBy": null,
+      "createdDate": null,
+      "updatedBy": null,
+      "updatedDate": null
+    },
+	{
+      "notificationId": 2,
+      "notificationName": "Khai giảng lớp mới 2",
+      "content": "Khai giảng lớp mới 2",
+      "notificationType": 1,
+      "status": null,
+      "notificationDate": null,
+      "remark": null,
+      "deleteFlg": 0,
+      "createdBy": null,
+      "createdDate": null,
+      "updatedBy": null,
+      "updatedDate": null
+    }
+  ]
+}

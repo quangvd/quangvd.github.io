@@ -1,0 +1,27 @@
+{  
+   "status":{  
+      "success":true,
+      "message":null,
+      "messageCode":null
+   },
+   "data":{  
+      "studentId":1,
+      "studentName":"Vo Quang",
+      "email":null,
+      "password":null,
+      "phoneNumber":null,
+      "status":null,
+      "address":null,
+      "birthday":null,
+      "gender":null,
+      "remark":null,
+      "deleteFlg":0,
+      "createdBy":null,
+      "createdDate":null,
+      "updatedBy":null,
+      "updatedDate":null,
+      "learnedFlg":null,
+      "level":null,
+      "studentType":null
+   }
+}

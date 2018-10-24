@@ -1,0 +1,9 @@
+{
+  "status": {
+    "success": false,
+    "message": "Không thể load được dữ liệu",
+    "messageCode": "ERR001"
+  },
+  "data": [
+  ]
+}

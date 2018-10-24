@@ -1,0 +1,9 @@
+{
+  "status": {
+    "success": false,
+    "message": "Hệ thống đang bảo trì",
+    "messageCode": "ERR001"
+  },
+  "data": [
+  ]
+}
