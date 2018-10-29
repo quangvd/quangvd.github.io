@@ -1,0 +1,13 @@
+{  
+   "status":{  
+      "success":true,
+      "message":null,
+      "messageCode":null
+   },
+   "data":[  
+      {  
+         "aboutUsPath":'http://hoctiengtrunghengli.com/',
+         "studentFeedbackPath":'http://hoctiengtrunghengli.com/cam-nhan-hoc-vien-34'
+      }
+   ]
+}
